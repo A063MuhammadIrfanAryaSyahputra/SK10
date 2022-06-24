@@ -1,0 +1,11 @@
+Masukkan jummalh mahasiswa yang masuk final : 8
+Masukkan Nama:
+Nim:
+diulang sebanyak inputan user tadi
+
+output
+
+Data mahasiswa yang masuk ke dalam tahap final
+Nama : 
+NIM  : 
+diulang sebanyak inputan user.
